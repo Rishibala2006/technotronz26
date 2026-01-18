@@ -142,8 +142,8 @@ const eventData: Record<
       "Plagiarism results in immediate disqualification",
     ],
     coordinators: [
-      { name: "Robin Buckley", phone: "9876543218" },
-      { name: "Eddie Munson", phone: "9876543219" },
+      { name: "Roshan", phone: "9876543218" },
+      { name: "Roshan", phone: "0" },
     ],
     fileCode: "FILE-005",
   },
